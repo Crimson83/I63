@@ -27,8 +27,9 @@ def projection_DC(pt,window,viewport):
     """
     Does the projection between WorldCoordinates and DisplayCoordinates
     """
-
-    pass
+    viewpoint_x=
+    viewpoint_y=
+    cng.point(viewpoint_x,viewpoint_y)
 cng.init_window(pnom='Test',pla=720,pha=480,color="white")
 x=int(input("Enter the x coordinate of the window :"))
 y=int(input("Enter the y coordinate of the window :"))
